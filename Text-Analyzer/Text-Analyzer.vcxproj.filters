@@ -21,12 +21,18 @@
     <ClCompile Include="TextStats.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="TextInput.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="TextStats.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
     <ClInclude Include="TextAnalyzer.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="TextInput.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
